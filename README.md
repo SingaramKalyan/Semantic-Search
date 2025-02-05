@@ -1,10 +1,11 @@
 # Semantic Search Application
 
-## Objective The main goal of this project is to build a semantic search application that allows users to upload text-based documents (like PDFs or TXT files) and perform natural language searches on them. Unlike traditional keyword searches, the application aims to return results based on the meaning or intent behind the search query, leveraging modern machine learning techniques for better accuracy and relevance.
+## Objective 
+The main goal of this project is to build a semantic search application that allows users to upload text-based documents (like PDFs or TXT files) and perform natural language searches on them. Unlike traditional keyword searches, the application aims to return results based on the meaning or intent behind the search query, leveraging modern machine learning techniques for better accuracy and relevance.
 
 Architecture The project is structured into two main components:
 
-##Backend:
+## Backend:
 
 Responsible for handling document uploads, processing them, generating embeddings, and executing semantic searches. Built using FastAPI, a modern web framework for building APIs.
 
